@@ -7,9 +7,6 @@ public class Date {
 	private int month;
 	private int year;
 	
-	Date(){
-		System.out.println("Default Constructor");
-	}
 	
 	
 	public Date(int day, int month, int year) {
